@@ -1,24 +1,7 @@
-# README
+# Setting up TailwindCSS on Rails 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Resources
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Rails 6 and Tailwind CSS](https://medium.com/@davidteren/rails-6-and-tailwindcss-getting-started-42ba59e45393)
+- [How to Install Taildwind on Rails 6](https://dev.to/tcgumus/how-to-install-tailwind-css-on-rails-6-0-2h3f)
+- [Tailwind CSS docs](https://tailwindcss.com/docs)
